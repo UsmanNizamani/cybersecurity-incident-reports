@@ -15,3 +15,6 @@ This report investigates a denial-of-service (DoS) SYN flood attack targeting a 
 This report documents a brute force attack on the website **yummyrecipesforme.com**, where a former employee injected malware by guessing default credentials. The investigation includes DNS and HTTP protocol analysis via `tcpdump`.  
 👉 [View Full Report (PDF)](./Incident_Report_BruteForce)
 
+## 📄 Report 4: Social Media Data Breach & Network Hardening
+This report analyzes a major data breach at a social media organization and recommends hardening methods like MFA, password policies, and firewall maintenance to prevent future attacks.  
+👉 [View Full Report (PDF)](./Incident_Report_SocialMedia_DataBreach)
