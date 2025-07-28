@@ -13,12 +13,17 @@ This report investigates a denial-of-service (DoS) SYN flood attack targeting a 
 
 ## 📄 Report 3: Brute Force Attack on YummyRecipes Website
 This report documents a brute force attack on the website **yummyrecipesforme.com**, where a former employee injected malware by guessing default credentials. The investigation includes DNS and HTTP protocol analysis via `tcpdump`.  
-👉 [View Full Report (PDF)](./Incident_Report_BruteForce)
+👉 [View Full Report](./Incident_Report_BruteForce)
 
 ## 📄 Report 4: Social Media Data Breach & Network Hardening
 This report analyzes a major data breach at a social media organization and recommends hardening methods like MFA, password policies, and firewall maintenance to prevent future attacks.  
-👉 [View Full Report (PDF)](./Incident_Report_SocialMedia_DataBreach)
+👉 [View Full Report ](./Incident_Report_SocialMedia_DataBreach)
 
 ## 📄 Report 5: Home Network Device Security Analysis
 This report evaluates three devices connected to a home network (printer, webcam, and external hard drive), identifying ownership, access level, physical location, and data sensitivity classification.  
-👉 [View Full Report (PDF)](./home-network-asset-management)
+👉 [View Full Report ](./home-network-asset-management)
+
+## 📄 Report 6: Banking Sector Risk Assessment
+This activity presents a risk register for a commercial bank, evaluating five critical risks (like phishing and data leaks) based on likelihood and impact. It uses the NIST Cybersecurity Framework’s "Identify" function to prioritize vulnerabilities.  
+👉 [View Risk Register ](./risk-assessment/)
+
