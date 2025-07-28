@@ -18,3 +18,7 @@ This report documents a brute force attack on the website **yummyrecipesforme.co
 ## 📄 Report 4: Social Media Data Breach & Network Hardening
 This report analyzes a major data breach at a social media organization and recommends hardening methods like MFA, password policies, and firewall maintenance to prevent future attacks.  
 👉 [View Full Report (PDF)](./Incident_Report_SocialMedia_DataBreach)
+
+## 📄 Report 5: Home Network Device Security Analysis
+This report evaluates three devices connected to a home network (printer, webcam, and external hard drive), identifying ownership, access level, physical location, and data sensitivity classification.  
+👉 [View Full Report (PDF)](./home-network-asset-management)
