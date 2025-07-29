@@ -1,5 +1,10 @@
 # Cybersecurity Incident Reports
 
+> ⚠️ **Disclaimer:**  
+> Some reports are inspired by activities and scenarios from the **Google Cybersecurity Professional Certificate**. All analysis, recommendations, and written content are **my original work**. No copyrighted course materials or templates are included.
+
+---
+
 ## 📄 Report 1: DNS and ICMP Log Analysis
 
 This report analyzes DNS request failures and ICMP error messages using `tcpdump` logs.
@@ -26,4 +31,9 @@ This report evaluates three devices connected to a home network (printer, webcam
 ## 📄 Report 6: Banking Sector Risk Assessment
 This activity presents a risk register for a commercial bank, evaluating five critical risks (like phishing and data leaks) based on likelihood and impact. It uses the NIST Cybersecurity Framework’s "Identify" function to prioritize vulnerabilities.  
 👉 [View Risk Register ](./risk-assessment/)
+
+## 📄 Report 7: Data Leak Incident Analysis
+This report investigates a data leak caused by improper access control and poor application of the **principle of least privilege**. It applies NIST SP 800-53: AC-6 to recommend improvements.  
+👉 [View Full Report (PDF)](./Data-Leak_Report/Data-Leak.pdf)
+
 
