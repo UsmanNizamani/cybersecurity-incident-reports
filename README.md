@@ -36,4 +36,7 @@ This activity presents a risk register for a commercial bank, evaluating five cr
 This report investigates a data leak caused by improper access control and poor application of the **principle of least privilege**. It applies NIST SP 800-53: AC-6 to recommend improvements.  
 👉 [View Full Report (PDF)](./Data-Leak_Report/Data-Leak.pdf)
 
+## 📄 Report 8: Malicious Spreadsheet Payload & IoC Analysis (VirusTotal)
 
+This report investigates a suspicious spreadsheet file that executed a malicious payload upon being opened. The file was analyzed using **VirusTotal**, and associated **indicators of compromise** (IoCs) were mapped using the **Pyramid of Pain** model.  
+👉 [View Report Folder](./malicious-spreadsheet-incident)
